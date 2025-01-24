@@ -1,7 +1,6 @@
-# lista-tareas
-Lista de tareas. Aplicacion móvil con Room.
+# Lista Tareas. Aplicacion móvil Android con Room.
 
-Una aplicación de lista de tareas (To-Do List) para dispositivos móviles que utiliza Room como base de datos local para almacenar y gestionar tareas.
+Una aplicación de lista de tareas (To-Do List) para dispositivos móviles Android que utiliza Room como base de datos local para almacenar y gestionar tareas.
 El proyecto fue desarrollado como parte de un ejercicio práctico en clase.
 
 Las características de esta aplicacion son:
