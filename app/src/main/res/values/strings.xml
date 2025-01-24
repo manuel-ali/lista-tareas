@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">practica_7</string>
+    <string name="introduce_el_nombre_de_la_tarea">Introduce el nombre de la tarea</string>
+    <string name="introduce_la_descripcion_de_la_tarea">Introduce la descripción de la tarea</string>
+    <string name="introduce_la_fecha_limite_de_la_tarea">Introduce la fecha límite de la tarea</string>
+</resources>
